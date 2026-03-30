@@ -30,3 +30,4 @@ packages/
 
 # Rider
 *.DotSettings.user
+obj/Debug/
